@@ -1,5 +1,5 @@
 # Python_NTLM_Attack
-#USE python ntlm_passwordspray.py -u <userfile> -f "fqdn" -p "password" -a "attackurl"
+#USE python ntlm_passwordspray.py -u "userfile" -f "fqdn" -p "password" -a "attackurl"
 
 #"userfile" - Textfile containing our usernames 
 
